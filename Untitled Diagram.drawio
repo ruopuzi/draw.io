@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-08-29T15:23:48.149Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="mfYvkfsYnlqBdI9K0yff" version="20.2.7" type="github">
+<mxfile host="app.diagrams.net" modified="2022-08-29T15:29:29.740Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/104.0.0.0 Safari/537.36" etag="6t0VyTLouqxW0rtOsnjM" version="20.2.7" type="github">
   <diagram id="Tch_EZq0xpf_7Y2Bl9Gk" name="Page-1">
     <mxGraphModel dx="949" dy="611" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -58,6 +58,57 @@
         </mxCell>
         <mxCell id="dOao3GPd37vw6CxwhaXw-11" value="API3 or TheGraph" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="660" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dOao3GPd37vw6CxwhaXw-19" value="去中心化后端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="880" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dOao3GPd37vw6CxwhaXw-20" value="去中心化前端" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="230" y="820" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dOao3GPd37vw6CxwhaXw-21" value="去中心化合约" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="230" y="940" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="dOao3GPd37vw6CxwhaXw-23" value="合约开发" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="360" y="955" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dOao3GPd37vw6CxwhaXw-24" value="合约部署" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="420" y="955" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dOao3GPd37vw6CxwhaXw-25" value="合约调试" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="480" y="955" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dOao3GPd37vw6CxwhaXw-26" value="数据同步" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="360" y="895" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dOao3GPd37vw6CxwhaXw-27" value="数据验证" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="420" y="895" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dOao3GPd37vw6CxwhaXw-28" value="数据安全" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="480" y="895" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dOao3GPd37vw6CxwhaXw-29" value="数据治理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="540" y="895" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dOao3GPd37vw6CxwhaXw-30" value="前端发布" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="360" y="835" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dOao3GPd37vw6CxwhaXw-31" value="代码存储" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="420" y="835" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dOao3GPd37vw6CxwhaXw-32" value="域名解析" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="480" y="837.5" width="60" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dOao3GPd37vw6CxwhaXw-33" value="专用浏览器" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="540" y="837.5" width="65" height="25" as="geometry" />
+        </mxCell>
+        <mxCell id="dOao3GPd37vw6CxwhaXw-34" value="" style="endArrow=none;html=1;rounded=0;fontSize=6;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="1020" as="sourcePoint" />
+            <mxPoint x="690" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dOao3GPd37vw6CxwhaXw-35" value="DAPP开发者生态" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=6;" vertex="1" parent="1">
+          <mxGeometry x="390" y="1020" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
