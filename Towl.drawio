@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-11-24T12:51:21.288Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="2FzspSMr6kjfCVCh2eL_" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-24T12:52:14.578Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="p2XOmPWzA2rPqTEXE-t-" version="20.5.3" type="github">
   <diagram id="itSLtwQBcvsBJhwZaci2" name="Page-1">
-    <mxGraphModel dx="1452" dy="972" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1763" dy="1229" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -463,8 +463,8 @@
         <mxCell id="IGbYzDKb01nwuAOX69q5-58" value="质押合约" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#e51400;strokeColor=none;fontColor=#ffffff;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="938" y="1643" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="IGbYzDKb01nwuAOX69q5-60" value="P2P功能网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="756" y="1540" width="100" height="29" as="geometry" />
+        <mxCell id="IGbYzDKb01nwuAOX69q5-60" value="去中心化DNS网络" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="726" y="1540" width="132" height="29" as="geometry" />
         </mxCell>
         <mxCell id="IGbYzDKb01nwuAOX69q5-61" value="P2P轻节点/IPFS节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=6;fontColor=#336600;" vertex="1" parent="1">
           <mxGeometry x="538.5" y="1569" width="131" height="26" as="geometry" />
