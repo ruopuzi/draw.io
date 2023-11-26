@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T08:48:12.477Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="aVJcuWH_XAJKdIALw5jA" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-26T14:14:44.933Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PFIhTuL8NJCew2uRIiYj" version="22.1.4" type="github">
   <diagram name="第 1 页" id="IrOaD0ugSm4VNV1ufrcn">
     <mxGraphModel dx="768" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -154,7 +154,7 @@
         <mxCell id="AjmC-OGkHX0ekNedTrzZ-64" value="消消乐平台" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="400" y="810" width="190" height="560" as="geometry" />
         </mxCell>
-        <mxCell id="AjmC-OGkHX0ekNedTrzZ-76" value="获得积分" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-64">
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-76" value="生成积分" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-64">
           <mxGeometry x="40" y="90" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AjmC-OGkHX0ekNedTrzZ-85" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AjmC-OGkHX0ekNedTrzZ-64" source="AjmC-OGkHX0ekNedTrzZ-82" target="AjmC-OGkHX0ekNedTrzZ-84">
@@ -240,6 +240,33 @@
         </mxCell>
         <mxCell id="AjmC-OGkHX0ekNedTrzZ-136" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AjmC-OGkHX0ekNedTrzZ-131" target="AjmC-OGkHX0ekNedTrzZ-135">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-138" value="管理员" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="2000" width="190" height="490" as="geometry" />
+        </mxCell>
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="AjmC-OGkHX0ekNedTrzZ-138" source="AjmC-OGkHX0ekNedTrzZ-140" target="AjmC-OGkHX0ekNedTrzZ-142">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-140" value="选择上传资产包" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-138">
+          <mxGeometry x="35" y="50" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AjmC-OGkHX0ekNedTrzZ-138" source="AjmC-OGkHX0ekNedTrzZ-142" target="AjmC-OGkHX0ekNedTrzZ-143">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-142" value="解析资产包" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-138">
+          <mxGeometry x="35" y="130" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-143" value="确认上传" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-138">
+          <mxGeometry x="35" y="210" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-144" value="收到接收短信" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-138">
+          <mxGeometry x="35" y="352.5" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-145" value="收到拒收短信" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-138">
+          <mxGeometry x="35" y="430" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-146" value="鑫联鑫催收公司管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1970" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
