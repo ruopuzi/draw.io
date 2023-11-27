@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-27T04:13:45.322Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="LlZDTBO7s3G903L6iFpN" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T04:16:09.668Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="o_6riNSAcaJRZDzTNldi" version="22.1.4" type="github">
   <diagram name="第 1 页" id="IrOaD0ugSm4VNV1ufrcn">
     <mxGraphModel dx="1173" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -334,7 +334,7 @@
         <mxCell id="AjmC-OGkHX0ekNedTrzZ-80" value="生成消债请求" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-43">
           <mxGeometry x="30" y="280" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AjmC-OGkHX0ekNedTrzZ-87" value="收到还款短信" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-43">
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-87" value="收到积分还款短信" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-43">
           <mxGeometry x="35" y="390" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AjmC-OGkHX0ekNedTrzZ-129" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="AjmC-OGkHX0ekNedTrzZ-43" source="AjmC-OGkHX0ekNedTrzZ-116" target="AjmC-OGkHX0ekNedTrzZ-78">
@@ -343,7 +343,7 @@
         <mxCell id="AjmC-OGkHX0ekNedTrzZ-116" value="收到积分短信" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-43">
           <mxGeometry x="30" y="160" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AjmC-OGkHX0ekNedTrzZ-89" value="查看还款记录" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-43">
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-89" value="查看积分还款记录" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-43">
           <mxGeometry x="35" y="520" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AjmC-OGkHX0ekNedTrzZ-90" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AjmC-OGkHX0ekNedTrzZ-43" source="AjmC-OGkHX0ekNedTrzZ-87" target="AjmC-OGkHX0ekNedTrzZ-89">
@@ -376,7 +376,7 @@
         <mxCell id="AjmC-OGkHX0ekNedTrzZ-84" value="生成还款报告" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-64">
           <mxGeometry x="40" y="390" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="AjmC-OGkHX0ekNedTrzZ-237" value="上报还款记录" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-64">
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-237" value="上传还款记录" style="whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-64">
           <mxGeometry x="40" y="500" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="AjmC-OGkHX0ekNedTrzZ-75" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AjmC-OGkHX0ekNedTrzZ-254" source="AjmC-OGkHX0ekNedTrzZ-47" target="AjmC-OGkHX0ekNedTrzZ-74">
