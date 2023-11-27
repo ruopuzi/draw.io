@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-26T14:14:44.933Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PFIhTuL8NJCew2uRIiYj" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-27T02:07:18.865Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="PFdA723NQePr1UO2GMvn" version="22.1.4" type="github">
   <diagram name="第 1 页" id="IrOaD0ugSm4VNV1ufrcn">
-    <mxGraphModel dx="768" dy="541" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="719" dy="506" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -241,32 +241,41 @@
         <mxCell id="AjmC-OGkHX0ekNedTrzZ-136" value="N" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="AjmC-OGkHX0ekNedTrzZ-131" target="AjmC-OGkHX0ekNedTrzZ-135">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AjmC-OGkHX0ekNedTrzZ-138" value="管理员" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="20" y="2000" width="190" height="490" as="geometry" />
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-160" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="1960" width="510" height="370" as="geometry" />
         </mxCell>
-        <mxCell id="AjmC-OGkHX0ekNedTrzZ-139" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="AjmC-OGkHX0ekNedTrzZ-138" source="AjmC-OGkHX0ekNedTrzZ-140" target="AjmC-OGkHX0ekNedTrzZ-142">
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-147" value="鑫联鑫" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-160">
+          <mxGeometry y="170" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-148" value="催收代理1&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;普通催收公司&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-160">
+          <mxGeometry x="260" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-152" value="催收报告&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 8px;&quot;&gt;手动创建&lt;/font&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=block;startFill=1;" edge="1" parent="AjmC-OGkHX0ekNedTrzZ-160" source="AjmC-OGkHX0ekNedTrzZ-147" target="AjmC-OGkHX0ekNedTrzZ-148">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AjmC-OGkHX0ekNedTrzZ-140" value="选择上传资产包" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-138">
-          <mxGeometry x="35" y="50" width="120" height="30" as="geometry" />
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-149" value="催收代理2&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;普通催收公司&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-160">
+          <mxGeometry x="260" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AjmC-OGkHX0ekNedTrzZ-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="AjmC-OGkHX0ekNedTrzZ-138" source="AjmC-OGkHX0ekNedTrzZ-142" target="AjmC-OGkHX0ekNedTrzZ-143">
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-153" value="催收报告&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font style=&quot;border-color: var(--border-color); font-size: 8px;&quot;&gt;手动创建&lt;/font&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=block;startFill=1;" edge="1" parent="AjmC-OGkHX0ekNedTrzZ-160" source="AjmC-OGkHX0ekNedTrzZ-147" target="AjmC-OGkHX0ekNedTrzZ-149">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AjmC-OGkHX0ekNedTrzZ-142" value="解析资产包" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-138">
-          <mxGeometry x="35" y="130" width="120" height="30" as="geometry" />
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-150" value="催收代理3&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;调解中心&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-160">
+          <mxGeometry x="260" y="220" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AjmC-OGkHX0ekNedTrzZ-143" value="确认上传" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-138">
-          <mxGeometry x="35" y="210" width="120" height="30" as="geometry" />
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-154" value="催收报告&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;手动创建&lt;/font&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;startArrow=block;startFill=1;" edge="1" parent="AjmC-OGkHX0ekNedTrzZ-160" source="AjmC-OGkHX0ekNedTrzZ-147" target="AjmC-OGkHX0ekNedTrzZ-150">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AjmC-OGkHX0ekNedTrzZ-144" value="收到接收短信" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-138">
-          <mxGeometry x="35" y="352.5" width="120" height="30" as="geometry" />
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-151" value="催收代理4&lt;br&gt;&lt;font style=&quot;font-size: 8px;&quot;&gt;消消乐&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-160">
+          <mxGeometry x="260" y="310" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="AjmC-OGkHX0ekNedTrzZ-145" value="收到拒收短信" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-138">
-          <mxGeometry x="35" y="430" width="120" height="30" as="geometry" />
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-155" value="催收报告&lt;br&gt;&lt;font style=&quot;font-size: 7px;&quot;&gt;自动生成&lt;/font&gt;" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=block;startFill=1;" edge="1" parent="AjmC-OGkHX0ekNedTrzZ-160" source="AjmC-OGkHX0ekNedTrzZ-147" target="AjmC-OGkHX0ekNedTrzZ-151">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="AjmC-OGkHX0ekNedTrzZ-146" value="鑫联鑫催收公司管理" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="20" y="1970" width="130" height="30" as="geometry" />
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-156" value="催收报告：&lt;br&gt;日期&lt;br&gt;动作&lt;br&gt;结果&lt;br&gt;状态&lt;br&gt;还债额&lt;br&gt;计划还债额&lt;br&gt;计划还债日期" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-160">
+          <mxGeometry x="390" y="120" width="120" height="190" as="geometry" />
+        </mxCell>
+        <mxCell id="AjmC-OGkHX0ekNedTrzZ-159" value="鑫联鑫与催收代理的关系" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="AjmC-OGkHX0ekNedTrzZ-160">
+          <mxGeometry width="140" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
