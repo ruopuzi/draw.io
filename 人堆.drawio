@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-11-29T03:04:37.450Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="VeGJR1oAvU1HSgY31U-Y" version="22.1.4" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-29T04:57:02.305Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="d5QKezq_JcBiUXFdC5U3" version="22.1.4" type="github">
   <diagram name="第 1 页" id="o3PVMyQYU3f04DB7Cl9n">
-    <mxGraphModel dx="557" dy="367" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="586" dy="386" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -22,7 +22,7 @@
         <mxCell id="vTWUh_w_JrEUObplxuor-49" value="迭代1" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vTWUh_w_JrEUObplxuor-50" vertex="1">
           <mxGeometry x="640" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="vTWUh_w_JrEUObplxuor-17" value="人堆商城" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
+        <mxCell id="vTWUh_w_JrEUObplxuor-17" value="人堆商城：撮合平台" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
           <mxGeometry x="138.5" y="480" width="390" height="85" as="geometry" />
         </mxCell>
         <mxCell id="vW-7oB2XDiz9553LDADk-12" value="分红" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="vW-7oB2XDiz9553LDADk-1" target="vW-7oB2XDiz9553LDADk-4" edge="1">
