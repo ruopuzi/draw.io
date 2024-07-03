@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T09:27:29.513Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="AAe1eP6Ouf-NZ8kDLvjX" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T09:28:30.523Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="NguE4TDSZ5cphQvZ_wZL" version="24.4.13" type="github">
   <diagram name="第 1 页" id="LReGcu2CM27HkbgXWE_M">
     <mxGraphModel dx="437" dy="308" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -16,14 +16,14 @@
             <mxPoint x="412.85" y="345" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aXy_L43vjC-4vkgIH09A-55" value="业务描述语言" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=0;fontColor=#CC6600;" vertex="1" parent="1">
+        <mxCell id="aXy_L43vjC-4vkgIH09A-55" value="产品描述语言" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=0;fontColor=#CC6600;" vertex="1" parent="1">
           <mxGeometry x="282.5" y="250" width="80" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aXy_L43vjC-4vkgIH09A-70" value="智能渲染引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;shadow=0;fontSize=19;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="262" y="322" width="132" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="aXy_L43vjC-4vkgIH09A-58" value="交付" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;textShadow=0;fontColor=#0066CC;" vertex="1" parent="1">
-          <mxGeometry x="302" y="207" width="60" height="30" as="geometry" />
+        <mxCell id="aXy_L43vjC-4vkgIH09A-58" value="交付产品" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;textShadow=0;fontColor=#0066CC;" vertex="1" parent="1">
+          <mxGeometry x="313" y="210" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aXy_L43vjC-4vkgIH09A-64" value="" style="ellipse;whiteSpace=wrap;html=1;shadow=0;strokeColor=#CC6600;" vertex="1" parent="1">
           <mxGeometry x="200" y="274" width="250" height="30" as="geometry" />
@@ -127,7 +127,7 @@
         <mxCell id="aXy_L43vjC-4vkgIH09A-31" value="通知" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=5;labelBackgroundColor=default;" vertex="1" parent="aXy_L43vjC-4vkgIH09A-40">
           <mxGeometry y="20" width="22" height="10" as="geometry" />
         </mxCell>
-        <mxCell id="aXy_L43vjC-4vkgIH09A-56" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;数字化产品交付" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#336600;" vertex="1" parent="1">
+        <mxCell id="aXy_L43vjC-4vkgIH09A-56" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;数字化产品" style="rounded=0;whiteSpace=wrap;html=1;fontSize=7;labelBackgroundColor=none;fillColor=#d5e8d4;strokeColor=#82b366;fontColor=#336600;" vertex="1" parent="1">
           <mxGeometry x="195" y="160" width="260" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aXy_L43vjC-4vkgIH09A-57" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;startSize=0;endSize=4.258181818181819;endWidth=10.115702479338843;width=10.181818181818182;fillColor=#dae8fc;strokeColor=#6c8ebf;textShadow=0;shadow=1;" edge="1" parent="1">
