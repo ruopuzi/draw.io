@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T08:33:41.728Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="anyzGCan4mPih4ZBSy1N" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T08:35:04.734Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="KB8ov32TjaH5xf41bk6C" version="24.4.13" type="github">
   <diagram name="第 1 页" id="LReGcu2CM27HkbgXWE_M">
-    <mxGraphModel dx="474" dy="334" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="156" dy="110" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -46,13 +46,13 @@
             <mxPoint x="230" y="250" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aXy_L43vjC-4vkgIH09A-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;exitX=0.413;exitY=-0.054;exitDx=0;exitDy=0;strokeWidth=0.8;strokeColor=#3399FF;exitPerimeter=0;" edge="1" parent="1" source="aXy_L43vjC-4vkgIH09A-30">
+        <mxCell id="aXy_L43vjC-4vkgIH09A-36" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.205;entryY=0.324;entryDx=0;entryDy=0;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=0.8;strokeColor=#3399FF;" edge="1" parent="1" source="aXy_L43vjC-4vkgIH09A-30" target="aXy_L43vjC-4vkgIH09A-6">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="249.85" y="296.28" as="sourcePoint" />
             <mxPoint x="249.85" y="367.28" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="aXy_L43vjC-4vkgIH09A-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;exitX=0.49;exitY=0.178;exitDx=0;exitDy=0;strokeWidth=0.8;strokeColor=#3399FF;exitPerimeter=0;" edge="1" parent="1" source="aXy_L43vjC-4vkgIH09A-32">
+        <mxCell id="aXy_L43vjC-4vkgIH09A-38" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=0.8;strokeColor=#3399FF;" edge="1" parent="1" source="aXy_L43vjC-4vkgIH09A-32">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="380.85" y="297" as="sourcePoint" />
             <mxPoint x="380.85" y="368" as="targetPoint" />
@@ -140,7 +140,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="aXy_L43vjC-4vkgIH09A-40" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="309" y="283" width="22" height="30" as="geometry" />
+          <mxGeometry x="309" y="284" width="22" height="30" as="geometry" />
         </mxCell>
         <mxCell id="aXy_L43vjC-4vkgIH09A-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="aXy_L43vjC-4vkgIH09A-40">
           <mxGeometry x="1" width="20" height="20" as="geometry" />
@@ -196,9 +196,9 @@
         <mxCell id="aXy_L43vjC-4vkgIH09A-70" value="智能渲染引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;" vertex="1" parent="1">
           <mxGeometry x="272" y="340" width="101" height="27" as="geometry" />
         </mxCell>
-        <mxCell id="aXy_L43vjC-4vkgIH09A-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;exitX=0.503;exitY=0.166;exitDx=0;exitDy=0;strokeWidth=0.8;strokeColor=#3399FF;exitPerimeter=0;" edge="1" parent="1" source="aXy_L43vjC-4vkgIH09A-31">
+        <mxCell id="aXy_L43vjC-4vkgIH09A-47" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=0;entryDy=15;entryPerimeter=0;strokeWidth=0.8;strokeColor=#3399FF;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="aXy_L43vjC-4vkgIH09A-31">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="319.85" y="298.5" as="sourcePoint" />
+            <mxPoint x="321" y="310" as="sourcePoint" />
             <mxPoint x="319.85" y="369.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
