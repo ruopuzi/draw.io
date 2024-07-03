@@ -1,13 +1,13 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T09:21:24.896Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="fb1lx6UZpbLUlv8ndqHr" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-03T09:22:57.044Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="a3tW9eyiEghm-SLJB3t9" version="24.4.13" type="github">
   <diagram name="第 1 页" id="LReGcu2CM27HkbgXWE_M">
     <mxGraphModel dx="428" dy="302" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="aXy_L43vjC-4vkgIH09A-55" value="业务描述语言" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=1;fontColor=#CC6600;" vertex="1" parent="1">
+        <mxCell id="aXy_L43vjC-4vkgIH09A-55" value="业务描述语言" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=11;fontStyle=0;fontColor=#CC6600;" vertex="1" parent="1">
           <mxGeometry x="282.5" y="250" width="80" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="aXy_L43vjC-4vkgIH09A-70" value="智能渲染引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;shadow=0;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="aXy_L43vjC-4vkgIH09A-70" value="智能渲染引擎" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=#0066CC;shadow=0;fontSize=19;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="262" y="322" width="132" height="27" as="geometry" />
         </mxCell>
         <mxCell id="aXy_L43vjC-4vkgIH09A-58" value="交付" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=10;textShadow=0;fontColor=#0066CC;" vertex="1" parent="1">
