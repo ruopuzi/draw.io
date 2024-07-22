@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-20T02:55:50.172Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="xVYKWsOi5UZWqduXfrkb" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-22T06:01:33.263Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Mm5ftZ_hcgzbkeUMEn5-" version="24.6.4" type="github">
   <diagram name="第 1 页" id="CQOX06ow4Ir3IROy69nW">
     <mxGraphModel dx="675" dy="476" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -107,25 +107,25 @@
           <mxGeometry x="260.5" y="324.5" width="47" height="86" as="geometry" />
         </mxCell>
         <mxCell id="XxVU2mzADCavuC9aInY1-40" value="白酒商城" style="rounded=0;whiteSpace=wrap;html=1;verticalAlign=top;fontSize=12;fillColor=#ffe6cc;strokeColor=none;fontColor=#C75200;" vertex="1" parent="1">
-          <mxGeometry x="90" y="271" width="332.63" height="65" as="geometry" />
+          <mxGeometry x="117.68" y="273" width="332.63" height="65" as="geometry" />
         </mxCell>
         <mxCell id="XxVU2mzADCavuC9aInY1-41" value="生产直播" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="164.13" y="301" width="53" height="25" as="geometry" />
+          <mxGeometry x="191.81" y="303" width="53" height="25" as="geometry" />
         </mxCell>
         <mxCell id="XxVU2mzADCavuC9aInY1-42" value="工厂直销" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="228.13" y="301" width="53" height="25" as="geometry" />
+          <mxGeometry x="255.81" y="303" width="53" height="25" as="geometry" />
         </mxCell>
         <mxCell id="XxVU2mzADCavuC9aInY1-43" value="酒品订制" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="293.13" y="301" width="53" height="25" as="geometry" />
+          <mxGeometry x="320.81" y="303" width="53" height="25" as="geometry" />
         </mxCell>
         <mxCell id="XxVU2mzADCavuC9aInY1-44" value="酒品溯源" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="357.63" y="301" width="53" height="25" as="geometry" />
+          <mxGeometry x="385.31" y="303" width="53" height="25" as="geometry" />
         </mxCell>
         <mxCell id="XxVU2mzADCavuC9aInY1-45" value="透明化" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=8;fontColor=#8C6A42;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="263" y="354" width="42" height="22" as="geometry" />
         </mxCell>
         <mxCell id="XxVU2mzADCavuC9aInY1-46" value="酒厂入驻" style="rounded=0;whiteSpace=wrap;html=1;fontSize=10;fillColor=#fa6800;fontColor=#FFFFFF;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="100" y="301" width="53" height="25" as="geometry" />
+          <mxGeometry x="127.68" y="303" width="53" height="25" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
