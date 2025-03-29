@@ -31,7 +31,7 @@
         <mxCell id="hxYnF_bC96rI5licERqw-14" value="声纹" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#0050ef;fontColor=#FFFFFF;strokeColor=none;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="293.1" y="2927" width="40" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hxYnF_bC96rI5licERqw-15" value="数据隐私网络" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#b1ddf0;strokeColor=none;fontColor=#1678a2;" vertex="1" parent="1">
+        <mxCell id="hxYnF_bC96rI5licERqw-15" value="数据隐私加密网络" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#b1ddf0;strokeColor=none;fontColor=#1678a2;" vertex="1" parent="1">
           <mxGeometry x="220.97" y="3110" width="115.13" height="40" as="geometry" />
         </mxCell>
         <mxCell id="hxYnF_bC96rI5licERqw-16" value="爱好" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#0050ef;fontColor=#FFFFFF;strokeColor=none;opacity=70;" vertex="1" parent="1">
