@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="25.0.3">
   <diagram name="第 1 页" id="YXzQUHZoz8mKru7DDK2F">
-    <mxGraphModel dx="1440" dy="-1347" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1020" dy="-1636" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -52,7 +52,7 @@
         <mxCell id="hxYnF_bC96rI5licERqw-23" value="安全数据黑箱" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="244" y="3010" width="86.23" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hxYnF_bC96rI5licERqw-25" value="用户密钥" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;opacity=80;" vertex="1" parent="1">
+        <mxCell id="hxYnF_bC96rI5licERqw-25" value="用户认证" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="420.97" y="3010" width="59.75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hxYnF_bC96rI5licERqw-26" value="AI Agent 授权" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;opacity=80;" vertex="1" parent="1">
@@ -193,7 +193,7 @@
         <mxCell id="hxYnF_bC96rI5licERqw-106" value="请点击确认执行" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=4;fontColor=#696969;" vertex="1" parent="hxYnF_bC96rI5licERqw-100">
           <mxGeometry x="66.88" y="175.87" width="40.62" height="9.13" as="geometry" />
         </mxCell>
-        <mxCell id="hxYnF_bC96rI5licERqw-107" value="数据沙箱" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;opacity=80;" vertex="1" parent="1">
+        <mxCell id="hxYnF_bC96rI5licERqw-107" value="数据加密" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;opacity=80;" vertex="1" parent="1">
           <mxGeometry x="594.85" y="3010" width="74" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hxYnF_bC96rI5licERqw-108" value="" style="group" vertex="1" connectable="0" parent="1">
