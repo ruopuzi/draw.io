@@ -46,7 +46,7 @@
         <mxCell id="hxYnF_bC96rI5licERqw-20" value="用户会话" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="267" y="2855" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="hxYnF_bC96rI5licERqw-21" value="安全授权管理" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#60a917;fontColor=#004d01;strokeColor=none;opacity=70;" vertex="1" parent="1">
+        <mxCell id="hxYnF_bC96rI5licERqw-21" value="安全平台" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=bottom;fillColor=#60a917;fontColor=#004d01;strokeColor=none;opacity=70;" vertex="1" parent="1">
           <mxGeometry x="234.6" y="2997" width="428" height="70" as="geometry" />
         </mxCell>
         <mxCell id="hxYnF_bC96rI5licERqw-23" value="安全数据黑箱" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=middle;fillColor=#008a00;fontColor=#ffffff;strokeColor=none;opacity=80;" vertex="1" parent="1">
