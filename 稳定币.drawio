@@ -37,7 +37,7 @@
           <mxGeometry x="158" y="254" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="RE5hwGnTZ4ISh6OOPq8Y-10" value="公司账号注册" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#304c79, #ededed);" vertex="1" parent="1">
-          <mxGeometry x="123" y="275" width="75" height="30" as="geometry" />
+          <mxGeometry x="130.5" y="275" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RE5hwGnTZ4ISh6OOPq8Y-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#476eb1, #ededed);strokeWidth=1.5;" edge="1" parent="1" source="RE5hwGnTZ4ISh6OOPq8Y-11" target="RE5hwGnTZ4ISh6OOPq8Y-13">
           <mxGeometry relative="1" as="geometry" />
