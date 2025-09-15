@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0">
   <diagram name="第 1 页" id="E5ZedBwA9UU5m4z4E3pf">
-    <mxGraphModel dx="715" dy="478" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="640" dy="428" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -36,8 +36,8 @@
         <mxCell id="RE5hwGnTZ4ISh6OOPq8Y-9" value="1" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;strokeWidth=1.5;fillColor=none;strokeColor=#6c8ebf;fontColor=light-dark(#4679bb, #ededed);" vertex="1" parent="1">
           <mxGeometry x="158" y="254" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="RE5hwGnTZ4ISh6OOPq8Y-10" value="账号注册" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="138" y="275" width="60" height="30" as="geometry" />
+        <mxCell id="RE5hwGnTZ4ISh6OOPq8Y-10" value="公司账号注册" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontColor=light-dark(#304c79, #ededed);" vertex="1" parent="1">
+          <mxGeometry x="123" y="275" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RE5hwGnTZ4ISh6OOPq8Y-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#476eb1, #ededed);strokeWidth=1.5;" edge="1" parent="1" source="RE5hwGnTZ4ISh6OOPq8Y-11" target="RE5hwGnTZ4ISh6OOPq8Y-13">
           <mxGeometry relative="1" as="geometry" />
