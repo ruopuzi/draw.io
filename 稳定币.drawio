@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/139.0.0.0 Safari/537.36" version="28.2.0">
   <diagram name="第 1 页" id="E5ZedBwA9UU5m4z4E3pf">
-    <mxGraphModel dx="760" dy="508" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1216" dy="813" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -127,7 +127,7 @@
         <mxCell id="RE5hwGnTZ4ISh6OOPq8Y-41" value="B2B稳定币外贸结算系统&amp;nbsp; &amp;nbsp; &amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=top;arcSize=12;fillColor=#dae8fc;strokeColor=none;fontColor=light-dark(#304C79,#EDEDED);imageWidth=24;fontSize=15;fontStyle=1;shadow=1;" vertex="1" parent="1">
           <mxGeometry x="53" y="420" width="540" height="410" as="geometry" />
         </mxCell>
-        <mxCell id="RE5hwGnTZ4ISh6OOPq8Y-42" value="账号体系" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#A5CAFC;strokeColor=none;fontColor=light-dark(#304c79, #ededed);shadow=1;" vertex="1" parent="1">
+        <mxCell id="RE5hwGnTZ4ISh6OOPq8Y-42" value="双币账号体系" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#A5CAFC;strokeColor=none;fontColor=light-dark(#304c79, #ededed);shadow=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="771" width="100" height="39" as="geometry" />
         </mxCell>
         <mxCell id="RE5hwGnTZ4ISh6OOPq8Y-43" value="代收/代付账号" style="rounded=1;whiteSpace=wrap;html=1;fontSize=10;fillColor=#A5CAFC;strokeColor=none;fontColor=light-dark(#304c79, #ededed);shadow=1;" vertex="1" parent="1">
